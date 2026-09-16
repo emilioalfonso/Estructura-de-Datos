@@ -1,0 +1,17 @@
+# NetBeans
+build/
+dist/
+.nb-gradle/
+
+# Compilados Java
+*.class
+
+# Logs
+*.log
+
+# Archivos temporales
+*.tmp
+
+# IDE
+.idea/
+.vscode/
